@@ -1,12 +1,70 @@
-#box {
+/*#box {
     background-color: blue;
     color:white;
-}
+    width: 100px;
+}*/
 
 .heading{
     color: red;
 }
 
-button{
+/*button{
     background-color: green;
+}*/
+
+#main{
+    text-align: center;
+    text-transform:capitalize;
 }
+*{
+    font-family:'Times New Roman', Times, serif;
+}
+
+#outer{
+    font-size:25px;
+}
+
+#Inner{
+   font-size: 10px;
+}
+
+#newdiv{
+    height:200px;
+    width: 100px;
+    background-color: pink;
+    border-width: 10px;
+    border-color: black;
+    border-style: solid;
+}
+
+/*div{
+    height: 100px;
+    margin-top: 10px;
+    background-color: red;
+    width: 100px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+    border-radius:50px ;
+}*/
+
+#navbar{
+  background-color: black;
+  width: 1276px;
+  height: 60px;
+  border: 3px,solid,white;
+  
+}
+a{
+    color: white;
+    margin-right: 180px;
+}
+button{
+   
+    background-color:#f08804;
+}
+#logo{  
+    font-size: 25px;
+    color: #f08804;
+}
+
